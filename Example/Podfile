@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+link_with 'CDBTableViewHeightCache_Example', 'CDBTableViewHeightCache_Tests'
+
+target 'CDBTableViewHeightCache_Example', :exclusive => true do
+  pod "CDBTableViewHeightCache", :path => "../"
+end
+
+target 'CDBTableViewHeightCache_Tests', :exclusive => true do
+  pod "CDBTableViewHeightCache", :path => "../"
+end

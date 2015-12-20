@@ -1,0 +1,14 @@
+PODS:
+  - CDBTableViewHeightCache (0.0.1)
+
+DEPENDENCIES:
+  - CDBTableViewHeightCache (from `../`)
+
+EXTERNAL SOURCES:
+  CDBTableViewHeightCache:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CDBTableViewHeightCache: f64a7da332983983a08c792f4863388f6a40f971
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,6 @@
+framework module CDBTableViewHeightCache {
+  umbrella header "CDBTableViewHeightCache-umbrella.h"
+
+  export *
+  module * { export * }
+}
